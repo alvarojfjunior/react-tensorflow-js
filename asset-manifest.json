@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-tensorflow-js/static/css/main.8fcad3ab.chunk.css",
+    "main.js": "/react-tensorflow-js/static/js/main.dfb5f680.chunk.js",
+    "main.js.map": "/react-tensorflow-js/static/js/main.dfb5f680.chunk.js.map",
+    "runtime-main.js": "/react-tensorflow-js/static/js/runtime-main.6ea33d0e.js",
+    "runtime-main.js.map": "/react-tensorflow-js/static/js/runtime-main.6ea33d0e.js.map",
+    "static/js/2.5ac12fc6.chunk.js": "/react-tensorflow-js/static/js/2.5ac12fc6.chunk.js",
+    "static/js/2.5ac12fc6.chunk.js.map": "/react-tensorflow-js/static/js/2.5ac12fc6.chunk.js.map",
+    "static/js/3.171f1eb1.chunk.js": "/react-tensorflow-js/static/js/3.171f1eb1.chunk.js",
+    "static/js/3.171f1eb1.chunk.js.map": "/react-tensorflow-js/static/js/3.171f1eb1.chunk.js.map",
+    "index.html": "/react-tensorflow-js/index.html",
+    "static/css/main.8fcad3ab.chunk.css.map": "/react-tensorflow-js/static/css/main.8fcad3ab.chunk.css.map",
+    "static/js/2.5ac12fc6.chunk.js.LICENSE.txt": "/react-tensorflow-js/static/js/2.5ac12fc6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6ea33d0e.js",
+    "static/js/2.5ac12fc6.chunk.js",
+    "static/css/main.8fcad3ab.chunk.css",
+    "static/js/main.dfb5f680.chunk.js"
+  ]
+}
